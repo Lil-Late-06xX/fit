@@ -1,5 +1,6 @@
 
 
+
 const togl = document.querySelector('#mobile-menu')
 const menyLinks = document.querySelector('.nav-menu')
 
